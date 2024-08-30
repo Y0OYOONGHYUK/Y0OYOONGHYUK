@@ -11,10 +11,12 @@
 <div id="header" align="center">
 
 
-soph(ia)  　　;　　15ㅤ　 ಿ᱖　ㅤthey / all
+“𝐀 𝐫egressor 𝐚ctually 𝐝oes 𝐧ot 𝐫egress. 𝐖hat 𝐚ctually
+</p>
+𝐫egresses 𝐢sn't 𝐡im, 𝐛ut 𝐞verything 𝐞lse 𝐞xcluding 𝐡im.”
 </p>
 
-[pt rentry](https://rentry.co/fries)　..　[main rentry](https://rentry.co/soph) ⠀&͟&͟⠀ [atabook](https://yoojoonghyuk.atabook.org/)
+[pt rentry](https://rentry.co/fries)　&͟&͟⠀　[main rentry](https://rentry.co/soph) ⠀&͟&͟⠀ [atabook](https://yoojoonghyuk.atabook.org/)
 </p>
 
 <p align="center"
