@@ -1,16 +1,20 @@
-## Hi there 👋
+<div id="header" align="center">
 
-<!--
-**Y0OYOONGHYUK/Y0OYOONGHYUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="[https://64.media.tumblr.com/d2686b537da6e540ea81697087c92308/9daddf923761f6ec-14/s500x750/da5535c09aa2b17e89e908ec92f0e1eb179da958.gifv](https://files.catbox.moe/etpjsw.gif)"> 
 
-Here are some ideas to get you started:
+<p align="center"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://files.catbox.moe/no9tl3.png" />
+</p>
+
+<div id="header" align="center">
+
+
+soph(ia)  　　;　　15ㅤ　 ಿ᱖　ㅤthey / all
+</p>
+
+[pt rentry](https://rentry.co/fries)　..　[main rentry](https://rentry.co/soph) ⠀&͟&͟⠀ [atabook](https://yoojoonghyuk.atabook.org/)
+</p>
+
+<p align="center"
